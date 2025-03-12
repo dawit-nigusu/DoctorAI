@@ -1,0 +1,8 @@
+README.md
+setup.py
+DoctorAI_GenAI_Project.egg-info/PKG-INFO
+DoctorAI_GenAI_Project.egg-info/SOURCES.txt
+DoctorAI_GenAI_Project.egg-info/dependency_links.txt
+DoctorAI_GenAI_Project.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
